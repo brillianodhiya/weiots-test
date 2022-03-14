@@ -1,0 +1,2 @@
+(this["webpackJsonpcreate-react-app-antd"]=this["webpackJsonpcreate-react-app-antd"]||[]).push([[28],{621:function(e,t,a){"use strict";a.r(t);var r=a(0),c=a.n(r);t.default=function(){return c.a.createElement("iframe",{className:"iframe-weiots",src:"https://www.youtube.com/embed/cR31l0yeGXQ",frameborder:"0",allow:"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",allowfullscreen:!0,title:"Youtube IKI",loading:"lazy"})}}}]);
+//# sourceMappingURL=28.972ecef3.chunk.js.map
